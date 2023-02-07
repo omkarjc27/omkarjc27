@@ -1,7 +1,4 @@
 <h1 align="center"> Hi I am <a href="http://omkarjc27.github.io/">Omkar<a> <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40"/> <br/> </h1> 
-
-<p align="center"> <samp>I'm Omkar Chalke, A 21-year student who does ML/DL development, web development.<br>Passionate to contribute to open-source projects and make cool products.</p>
-<br />
 <!--
 **omkarjc27/omkarjc27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
